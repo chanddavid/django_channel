@@ -6,8 +6,8 @@ from email.mime.multipart import MIMEMultipart
 from threading import Thread
 
 your_email = "tankmansodari.073@kathford.edu.np"
-email_to = "tankamansodari7@gmail.com"
-password = "sseccus@tankmans"
+email_to = "youremail"
+password = "your password"
 subject = "Ekbana Temperature Report"
 text = """\
     Hi,
